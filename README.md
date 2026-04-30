@@ -11,6 +11,13 @@ A Flutter app for managing student tasks with Firebase integration.
 - 📋 View Tasks with Date & Time
 - 🔄 Real-time updates with Firebase Firestore
 - 📱 Responsive UI (Mobile + Tablet)
+  
+## Screenshots
+![Splash Screen](screenshots/splash.jpg)
+![Login Screen](screenshots/login.jpg)
+![Home Screen](screenshots/home.jpg)
+![Add Task](screenshots/add_task.jpg)
+![View Tasks](screenshots/view_tasks.jpg)
 
 ## Tech Stack
 - Flutter & Dart
