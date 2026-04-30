@@ -7,7 +7,7 @@ A Flutter app for managing student tasks with Firebase integration.
 - 🚪 Logout with confirmation dialog
 - ➕ Add Tasks
 - ✏️ Edit Tasks with dialog
-- 🗑️ Delete Tasks with undo option
+- 🗑️ Delete Tasks with undo option & confirmation dialog
 - 📋 View Tasks with Date & Time
 - 🔄 Real-time updates with Firebase Firestore
 - 📱 Responsive UI (Mobile + Tablet)
