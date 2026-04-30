@@ -24,6 +24,7 @@ A Flutter app for managing student tasks with Firebase integration.
 - Firebase Cloud Firestore
 - REST API (DummyJSON)
 - Shared Preferences
+- Android
 
 ## Screens
 - Splash Screen
