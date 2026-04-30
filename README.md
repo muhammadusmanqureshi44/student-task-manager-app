@@ -44,4 +44,4 @@ A Flutter app for managing student tasks with Firebase integration.
 - Password: `emilyspass`
 
 - Add Task Screen
-- View Task Screen
+- 
