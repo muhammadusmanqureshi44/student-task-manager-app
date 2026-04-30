@@ -1,21 +1,26 @@
-<<<<<<< HEAD
-# student_task_manager_app
+# Student Task Manager App
 
-A new Flutter project.
+A Flutter app for managing student tasks with Firebase integration.
 
-## Getting Started
+## Features
+- 🔐 Login with REST API
+- 🚪 Logout with confirmation dialog
+- ➕ Add Tasks
+- ✏️ Edit Tasks with dialog
+- 🗑️ Delete Tasks with undo option
+- 📋 View Tasks with Date & Time
+- 🔄 Real-time updates with Firebase Firestore
+- 📱 Responsive UI (Mobile + Tablet)
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter & Dart
+- Firebase Cloud Firestore
+- REST API (DummyJSON)
+- Shared Preferences
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# student-task-manager-app
-A Flutter app for managing student tasks with Firebase Firestore and REST API authentication.
->>>>>>> 3f1a3725866223072f440a72377182637d6f6fcd
+## Screens
+- Splash Screen
+- Login Screen
+- Home Screen
+- Add Task Screen
+- View Task Screen
