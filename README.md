@@ -42,6 +42,3 @@ A Flutter app for managing student tasks with Firebase integration.
 ## Test Credentials
 - Username: `emilys`
 - Password: `emilyspass`
-
-- Add Task Screen
-- 
