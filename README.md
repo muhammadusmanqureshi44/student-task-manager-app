@@ -31,4 +31,17 @@ A Flutter app for managing student tasks with Firebase integration.
 - Login Screen
 - Home Screen
 - Add Task Screen
+- View Tasks Screen
+  
+## How to Run
+1. Clone the repo
+2. Run `flutter pub get`
+3. Add your `google-services.json`
+4. Run `flutter run`
+
+## Test Credentials
+- Username: `emilys`
+- Password: `emilyspass`
+
+- Add Task Screen
 - View Task Screen
